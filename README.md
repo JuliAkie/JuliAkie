@@ -7,6 +7,8 @@
 - I am from Brazil
 
 - I am 20 years old
+
+- I am majoring in Computer Science
   
 - 🌱 I’m currently learning **Data Science and JAVA**
 
