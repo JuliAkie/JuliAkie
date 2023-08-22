@@ -10,9 +10,9 @@
 
 - I'm majoring in Computer Science
   
-- 🌱 I’m currently learning **Data Science and JAVA**
+- I’m currently learning **Data Science and JAVA**
 
-- 📫 How to reach me **juliakavamoto@gmail.com**
+- How to reach me **juliakavamoto@gmail.com**
 
 **Interests:**
 - Exploring new coding challenges and algorithms
