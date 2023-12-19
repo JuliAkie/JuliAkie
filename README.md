@@ -10,7 +10,7 @@
 
 - I'm majoring in Computer Science
   
-- I’m currently learning **Data Science and JAVA**
+- I’m currently learning **Data Science**
 
 - How to reach me **juliakavamoto@gmail.com**
 
